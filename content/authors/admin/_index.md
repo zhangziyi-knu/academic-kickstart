@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: New technology R&D engineer
+role: New Technology R&D Engineer
 
 # Organizations/Affiliations
 organizations:
