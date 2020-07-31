@@ -30,7 +30,7 @@ education:
   - course: MEng in Mechanical Engineering
     institution: Kyungpook National University, Korea
     year: 2020
-  - course: Foriegn Exchange Student in Mechanical Engineering
+  - course: Exchange Student in Mechanical Engineering
     institution: Yeungnam University, Korea
     year: 2017 
   - course: BSc in Mechanical Engineering
