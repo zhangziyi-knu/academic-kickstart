@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "New Technology R&D Engineer"
   company = "Hyundai Mobis China R&D Center"
   company_url = ""
-  location = "California"
+  location = "Shenzhen, China"
   date_start = "2020-04-21"
   date_end = ""
   description = """
@@ -31,13 +31,13 @@ date_format = "Jan 2006"
   * ADAS
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+#[[experience]]
+# title = "Professor"
+#  company = "University X"
+# company_url = ""
+#  location = "California"
+#  date_start = "2016-01-01"
+#  date_end = "2016-12-31"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
