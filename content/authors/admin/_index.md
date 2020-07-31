@@ -14,7 +14,7 @@ role: New technology R&D engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Kyungpook National University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,17 +22,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cloud Computing
+- Big Data
 
 education:
   courses:
   - course: MEng in Mechanical Engineering
-    institution: Kyungpook National University
+    institution: Kyungpook National University, Korea
     year: 2020
-  
+  - course: Foriegn Exchange Student in Mechanical Engineering
+    institution: Yeungnam University, Korea
+    year: 2017 
   - course: BSc in Mechanical Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Jilin Institute of Chemical Technology, China
     year: 2017
 
 # Social/Academic Networking
