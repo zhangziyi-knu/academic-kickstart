@@ -28,7 +28,15 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * C-V2X
+  - C-V2X module development
+  - C-V2X HMI development
+  - RTK/RCA high-precision positioning development
   * ADAS
+  - Driver status warning system development
+  - Driver's vital signs monitoring system development
+  - Gesture recognition technology development (pre-research)
+  - Emotion recognition system development (pre-research)
+  - Autonomous parking system development (pre-research)
   """
 
 #[[experience]]
