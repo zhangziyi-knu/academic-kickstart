@@ -27,12 +27,13 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
+  - course: MEng in Mechanical Engineering
+    institution: Kyungpook National University
+    year: 2020
+  
+  - course: BSc in Mechanical Engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
