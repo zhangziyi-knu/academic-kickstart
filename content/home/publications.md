@@ -8,9 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "CNN"
-authors = ["Ziyi Zhang", "BoYeong Kang"]
-abstract = "111"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -69,6 +67,10 @@ abstract = "111"
  css_class = ""
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
+{{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+
+title = "How to Generate Publication Markdown"
+date = 2018-06-07T12:36:50+08:00
+draft = false
