@@ -87,4 +87,4 @@ Deep Learning-Based Active Switching Technology for Driving Modes in Autonomous 
 
 자가조립(self-assembly)형 멀티 청소 로봇 개발 \
 The Development of Self-Assembly Muti-Clearning Robot \
-미래창조과학부 중견과제, 2016.06.01~2019.05.31<font\>
+미래창조과학부 중견과제, 2016.06.01~2019.05.31 </font>
