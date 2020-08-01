@@ -27,8 +27,8 @@ subtitle = ""
   description = "Topik 5"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
+  icon = ":laptop:"
+  icon_pack = "emoji"
   name = "Programming"
   description = "Python·Matlab·C++"
 
