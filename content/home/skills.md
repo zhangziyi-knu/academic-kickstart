@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -21,7 +21,7 @@ subtitle = ""
   description = "CET 4"
   
 [[feature]]
-  icon = ":openbook:"
+  icon = ":bookmark:"
   icon_pack = "emoji"
   name = "Korean"
   description = "Topik 5"  
