@@ -66,7 +66,9 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning
+
 [advanced]
  # Custom CSS. 
  css_style = ""
