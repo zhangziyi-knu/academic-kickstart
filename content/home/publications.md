@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = "Ziyi Zhang, BeYeong Kang"
+    author = ""
     exclude_featured = false
   
 [design]
