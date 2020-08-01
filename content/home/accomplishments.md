@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "Kyungpook National University"
   organization_url = ""
   title = "Experiences"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-03-01"
   date_end = ""
   description = "2018 Spring Semester, Teaching Assistant of Engineering Mathematics"  
 
 [[item]]
-  organization = ""
+  organization = "Kyungpook National University"
   organization_url = ""
   title = "Scholarships"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-03-01"
   date_end = ""
   description = "2018 Spring Semester, KNU-Scholarship \ 2018 Spring Semester, BK+ Scholarship \ 2018 Autumn Semester, KNU-Scholarship \ 2018 Autumn Semester, BK+ Scholarship \ 2019 Spring Semester, KNU-Scholarship \ 2019 Autumn Semester, KNU-Scholarship \"
 
 +++
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Scholarships"
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "2018 Spring Semester, KNU-Scholarship \ 2018 Spring Semester, BK+ Scholarship \ 2018 Autumn Semester, KNU-Scholarship \ 2018 Autumn Semester, BK+ Scholarship \ 2019 Spring Semester, KNU-Scholarship \ 2019 Autumn Semester, KNU-Scholarship \"
