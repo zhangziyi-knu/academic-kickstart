@@ -77,3 +77,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning.
+
+Deep Learning-Based Active Switching Technology for Driving Modes in Autonomous Cars.
+
+The Development of Self-Assembly Muti-Clearning Robot.
