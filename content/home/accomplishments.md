@@ -24,6 +24,17 @@ date_format = "Jan 2006"
   title = "Experiences"
   url = ""
   certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "1/
+  2/
+  3"
+  
+  organization = ""
+  organization_url = ""
+  title = "Experiences"
+  url = ""
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = "1/2/3"
