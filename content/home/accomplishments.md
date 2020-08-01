@@ -30,22 +30,12 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Kyungpook National University"
-  organization_url = "https://ibot.knu.ac.kr"
+  organization_url = ""
   title = "Experiences"
   url = ""
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = "2018-6-30"
-  description = "Teaching Assistant of Engineering Mathematics"
-  
-[[item]]
-  organization = "Kyungpook National University"
-  organization_url = "https://ibot.knu.ac.kr"
-  title = "Scholarships"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = "2020-02-28"
-  description = "2018 Spring Semester, KNU-Scholarship \ 2018 Spring Semester, BK+ Scholarship \ 2018 Autumn Semester, KNU-Scholarship \ 2018 Autumn Semester, #BK+ Scholarship \ 2019 Spring Semester, KNU-Scholarship \ 2019 Autumn Semester, KNU-Scholarship \"
+  description = "Teaching Assistant of Engineering Mathematics"  
 
 +++
