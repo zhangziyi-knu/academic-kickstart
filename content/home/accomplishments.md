@@ -30,12 +30,21 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Kyungpook National University"
-  organization_url = "https://www.datacamp.com"
-  title = "Teaching Assistant of Engineering Mathematics"
+  organization_url = "https://ibot.knu.ac.kr"
+  title = "Experiences"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = "2018-06-30"
   description = "Teaching Assistant of Engineering Mathematics"
 
+[[item]]
+  organization = "Kyungpook National University"
+  organization_url = "https://ibot.knu.ac.kr"
+  title = "Experiences"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = "2018-06-30"
+  description = "Teaching Assistant of Engineering Mathematics"
 +++
