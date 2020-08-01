@@ -21,7 +21,7 @@ subtitle = ""
   description = "CET 4"
   
 [[feature]]
-  icon = ":bookmark:"
+  icon = ":pen:"
   icon_pack = "emoji"
   name = "Korean"
   description = "Topik 5"  
