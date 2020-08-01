@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = ":smile:"
+  icon_pack = "emoji"
+  name = "English"
   description = "CET 4"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Korean"
   description = "Topik 5"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "Python"
+  name = "Programming"
+  description = "Python·Matlab·C++"
 
 # Uncomment to use emoji icons.
 # [[feature]]
