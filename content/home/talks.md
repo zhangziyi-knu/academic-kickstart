@@ -71,9 +71,9 @@ subtitle = ""
 
 *<font size=5>**Experiences**</font>*
 
-<font size=4>2018 Spring Semester, Teaching Assistant of Engineering Mathematics</font>
+<font size=4>2018 Spring Semester, Teaching Assistant of Engineering Mathematics</font> \
 
-\
+
 
 *<font size=5>**Scholarships**</font>* 
 
