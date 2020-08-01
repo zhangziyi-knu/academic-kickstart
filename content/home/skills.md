@@ -21,7 +21,7 @@ subtitle = ""
   description = "CET 4"
   
 [[feature]]
-  icon = ":Open Book:"
+  icon = ":openbook:"
   icon_pack = "emoji"
   name = "Korean"
   description = "Topik 5"  
