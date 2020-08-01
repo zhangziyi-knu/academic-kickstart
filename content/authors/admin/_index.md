@@ -14,7 +14,7 @@ role: New Technology R&D Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Kyungpook National University
+- name: Hyundai Mobis China R&D Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
