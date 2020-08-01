@@ -18,13 +18,13 @@ subtitle = ""
   icon = ":books:"
   icon_pack = "emoji"
   name = "English"
-  description = "CET 4"
+  description = "Fluent"
   
 [[feature]]
   icon = ":pen:"
   icon_pack = "emoji"
   name = "Korean"
-  description = "Topik 5"  
+  description = "Fluent"  
   
 [[feature]]
   icon = ":laptop:"
