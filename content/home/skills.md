@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = ":smile:"
+  icon = ":books:"
   icon_pack = "emoji"
   name = "English"
   description = "CET 4"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = ":Open Book:"
+  icon_pack = "emoji"
   name = "Korean"
   description = "Topik 5"  
   
