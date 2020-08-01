@@ -69,15 +69,15 @@ subtitle = ""
  css_class = ""
 +++
 
-*<font size=5>**Experiences**</font>*
+*<font size=L>**Experiences**</font>*
 
-<font size=4>2018 Spring Semester, Teaching Assistant of Engineering Mathematics</font> 
+<font size=M>2018 Spring Semester, Teaching Assistant of Engineering Mathematics</font> 
 
 
 
-*<font size=5>**Scholarships**</font>* 
+*<font size=L>**Scholarships**</font>* 
 
-<font size=4>2018 Spring Semester, KNU-Scholarship \
+<font size=M>2018 Spring Semester, KNU-Scholarship \
 2018 Spring Semester, BK+ Scholarship \
 2018 Autumn Semester, KNU-Scholarship \
 2018 Autumn Semester, BK+ Scholarship \
