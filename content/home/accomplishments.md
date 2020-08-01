@@ -29,14 +29,14 @@ date_format = "Jan 2006"
 # description = "2018 Spring Semester, Teaching Assistant of Engineering Mathematics"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Kyungpook National University"
+  organization_url = "https://www.knu.ac.kr"
+  title = "Experiences"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = "2018-6-30"
+  description = "Teaching Assistant of Engineering Mathematics"
   
 # [[item]]
 #  organization = "Kyungpook National University"
