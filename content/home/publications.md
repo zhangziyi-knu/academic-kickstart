@@ -67,19 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+ {{% alert note %}}
+ Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+ {{% /alert %}}
 
-[[item]]
-  organization = "SCOPUS"
- # organization_url = "https://www.edx.org"
-  title = "Ziyi Zhang, Bo-Yeong Kang, "Multi-camera Based Driver's Smart-Phone Usage Detection Using Convolutional Neural Network,” Journal of Information and Communication Convergence Engineering (JICCE), Vol. 18, No.2, pp.75-81, July 2020"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-  date_start = "2020-06-30"
-  date_end = ""
-  description = ""
   
 Ziyi Zhang, Bo-Yeong Kang, "Multi-camera Based Driver's Smart-Phone Usage Detection Using Convolutional Neural Network,” Journal of Information and Communication Convergence Engineering (JICCE), Vol. 18, No.2, pp.75-81, July 2020 (SCOPUS).
 
