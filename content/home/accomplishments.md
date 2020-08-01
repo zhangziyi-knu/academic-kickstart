@@ -29,13 +29,13 @@ date_format = "Jan 2006"
 # description = "2018 Spring Semester, Teaching Assistant of Engineering Mathematics"
   
 [[item]]
-  organization = "DataCamp"
+  organization = "Kyungpook National University"
   organization_url = "https://www.datacamp.com"
-  title = "xxxxxxxxxx"
+  title = "Teaching Assistant of Engineering Mathematics"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2018-03-01"
+  date_end = "2018-06-30"
+  description = "Teaching Assistant of Engineering Mathematics"
 
 +++
