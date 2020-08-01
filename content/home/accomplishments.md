@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.datacamp.com"
   date_start = "2018-03-01"
   date_end = "2020-02-28"
-  description = "Teaching Assistant of Engineering Mathematics"
+  description = "Teaching Assistant of Engineering Mathematics \ 1 2"
 
   
 +++
