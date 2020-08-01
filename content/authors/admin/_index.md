@@ -30,12 +30,12 @@ education:
   - course: MEng in Mechanical Engineering
     institution: Kyungpook National University, Korea
     year: 2020
-  - course: Exchange Student in Mechanical Engineering
-    institution: Yeungnam University, Korea
-    year: 2017 
   - course: BSc in Mechanical Engineering
     institution: Jilin Institute of Chemical Technology, China
     year: 2017
+  - course: Exchange Student in Mechanical Engineering
+    institution: Yeungnam University, Korea
+    year: 2016 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
