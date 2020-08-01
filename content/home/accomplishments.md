@@ -36,7 +36,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "2018 Spring Semester, KNU-Scholarship \ 2018 Spring Semester, BK+ Scholarship \ 2018 Autumn Semester, KNU-Scholarship \ 2018 Autumn Semester, BK+ Scholarship \ 2019 Spring Semester, KNU-Scholarship \ 2019 Autumn Semester, KNU-Scholarship \
-"
+  description = "2018 Spring Semester, KNU-Scholarship \ 2018 Spring Semester, BK+ Scholarship \ 2018 Autumn Semester, KNU-Scholarship \ 2018 Autumn Semester, BK+ Scholarship \ 2019 Spring Semester, KNU-Scholarship \ 2019 Autumn Semester, KNU-Scholarship \"
 
 +++
