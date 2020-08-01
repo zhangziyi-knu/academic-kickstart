@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**International Journal**
+<font size="L">**International Journal**</font>
 
 **Ziyi Zhang**, Bo-Yeong Kang, "Multi-camera Based Driver's Smart-Phone Usage Detection Using Convolutional Neural Network,” Journal of Information and Communication Convergence Engineering (JICCE), Vol. 18, No.2, pp.75-81, July 2020 (SCOPUS).
 
