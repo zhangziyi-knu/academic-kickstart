@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Experiences & Scholarships"
 subtitle = ""
@@ -72,6 +72,8 @@ subtitle = ""
 *<font size=5>**Experiences**</font>*
 
 <font size=4>2018 Spring Semester, Teaching Assistant of Engineering Mathematics</font>
+
+\
 
 *<font size=5>**Scholarships**</font>* 
 
