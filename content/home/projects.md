@@ -77,7 +77,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning.
+Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning. \\
+과학기술정보통신부 중견과제, 2019.03.01~2022.02.28 
 
 Deep Learning-Based Active Switching Technology for Driving Modes in Autonomous Cars.
 
