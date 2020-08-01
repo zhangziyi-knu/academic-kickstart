@@ -77,7 +77,7 @@ subtitle = ""
  css_class = ""
 +++
 
-분산된 딥 강화 학습을 이용한 진화형 협동 로봇 개발 \
+<font size=4>분산된 딥 강화 학습을 이용한 진화형 협동 로봇 개발 \
 Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning \
 과학기술정보통신부 중견과제, 2019.03.01~2022.02.28 
 
@@ -87,4 +87,4 @@ Deep Learning-Based Active Switching Technology for Driving Modes in Autonomous 
 
 자가조립(self-assembly)형 멀티 청소 로봇 개발 \
 The Development of Self-Assembly Muti-Clearning Robot \
-미래창조과학부 중견과제, 2016.06.01~2019.05.31
+미래창조과학부 중견과제, 2016.06.01~2019.05.31<font\>
