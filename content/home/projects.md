@@ -86,5 +86,5 @@ Deep Learning-Based Active Switching Technology for Driving Modes in Autonomous 
 미래창조과학부 지역신산업 선도인력양성과제, 2018.03.01~2019.05.31
 
 자가조립(self-assembly)형 멀티 청소 로봇 개발 \
-The Development of Self-Assembly Muti-Clearning Robot \
+The Development of Self-Assembly Muti-Cleaning Robot \
 미래창조과학부 중견과제, 2018.03.01~2019.05.31 </font>
