@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-is currently a New Technology R&D Engineer in Hyundai Mobis China R&D Center, which he joined in 2020. He received his M.S. in the School of Mechanical Engineering at Kyungpook National University in Korea. He is currently an R&D engineer in Autonomous driving/C-V2X technology development.
+is currently a New Technology R&D Engineer in Hyundai Mobis China R&D Center, which he joined in 2020. He received his M.S. in the School of Mechanical Engineering at Kyungpook National University in Korea. He is currently an R&D Engineer in Autonomous driving/C-V2X technology development.
