@@ -78,7 +78,7 @@ subtitle = ""
 +++
 
 <font size=M>분산된 딥 강화 학습을 이용한 진화형 협동 로봇 개발 \
-Evolutionnary Cooperative Robot Development Using Distributed Deep Reinforcement Learning \
+Evolutionary Cooperative Robot Development Using Distributed Deep Reinforcement Learning \
 과학기술정보통신부 중견과제, 2019.03.01~2020.02.28 
 
 자율주행차에서 딥러닝기반 능동적 운전모드 전환 기술 개발 \
