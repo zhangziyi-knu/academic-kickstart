@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Artificial Intelligence
+  - course: PhD Candidate in Artificial Intelligence
     institution: Kyungpook National University, Korea
     year: 2021
   - course: MEng in Mechanical Engineering
